@@ -3,7 +3,7 @@
     "path": "~/shin_pruebas/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "1274116836",
+    "hash": "3372548427",
     "contents": "",
     "dirty": false,
     "created": 1725297361654.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "68,34",
-        "scrollLine": "50"
+        "cursorPosition": "14,17",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1725298557,
+    "lastKnownWriteTime": 1725298779,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1725298557567,
+    "last_content_update": 1725298779585,
     "read_only": false,
     "read_only_alternatives": []
 }

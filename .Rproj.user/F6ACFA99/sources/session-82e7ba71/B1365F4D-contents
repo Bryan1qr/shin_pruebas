@@ -12,7 +12,7 @@ filters:
 
 ```{shinylive-r}
 #| standalone: true
-#| viewerHeight: 600
+#| viewerHeight: 700
 library(shiny)
 library(bslib)
 
@@ -20,7 +20,7 @@ library(bslib)
 ui <- page_sidebar(
 
   # App title ----
-  title = "Hello Shiny!",
+  title = "Histograma modificable",
 
   # Sidebar panel for inputs ----
   sidebar = sidebar(
